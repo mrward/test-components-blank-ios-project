@@ -1,0 +1,9 @@
+# ignore all obj and bin folders (even in subdirectories)
+obj/
+bin/
+/packages/
+
+*.ide/
+*.DotSettings.user
+*.suo
+.DS_Store
